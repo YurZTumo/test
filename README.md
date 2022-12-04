@@ -1,11 +1,3 @@
-# <br>
- <br>
-
-<hr>
-
-<h2>Contact Us</h2>
-
-
 <form action="http://monkey.tumo.org/activities/web/phase-2/working-with-html-elements-2/form-submit.php" method="get"> <label for="name">name:</label><input id="name" name="name" type="text"><br /><br />
 
 <label for="email">email:</label> <input id="email" name="email" type="text"><br /><br /> <label for="password">choose a password: </label> <input id="password" name="password" type="password"><br /><br />
